@@ -6,4 +6,4 @@ spawn(function()
     end)
 end)
 player:Kick(string.gsub("Server crashed!","Server crashed!",string.gsub(table.concat(t),"z","")))
-end)
+
